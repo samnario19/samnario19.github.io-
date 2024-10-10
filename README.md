@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
@@ -38,3 +39,6 @@ You can preview the production build with `npm run preview`.
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
 "samnario19.github.io" 
 "# samnario19.github.io-" 
+=======
+# samnario19.github.io-
+>>>>>>> f5e03fe30637cc9884644ec055999e5c09cf0c9f
